@@ -1,3 +1,6 @@
+# Text files (for testing)
+*.txt
+
 # Prerequisites
 *.d
 
