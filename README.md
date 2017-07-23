@@ -7,7 +7,7 @@ A simple text compressor created for Systems Programming class.
 Build executable with the following command:
 
 ```
-make phase4
+make compress456
 ```
 
 To compress a file, use:
