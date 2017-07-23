@@ -2,6 +2,26 @@
 
 A simple text compressor created for Systems Programming class.
 
+## Usage:
+
+Build executable with the following command:
+
+```
+make phase4
+```
+
+To compress a file, use:
+
+```
+compress456 -e <file>
+```
+
+To decompress, use:
+
+```
+compress456 -d <file-with-456-extension>
+```
+
 ## Algorithms Used:
 
 * [Burrows-Wheeler Transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform) - Reversible transform that creates runs of similar characters.
