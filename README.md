@@ -30,4 +30,8 @@ compress456 -d <file-with-456-extension>
 
 ## Author:
 
-* Written by **Gage Golish**.
+Written by **Gage Golish**.
+
+## License:
+
+This software is licensed under the terms of the [MIT License](https://github.com/ggolish/SimpleCompressor/blob/master/LICENSE.md).
